@@ -1,0 +1,29 @@
+body {
+    background: linear-gradient(#9a08dd 0%,#dd4c4f 40%,#7420d3 100%);
+}
+.profile {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    margin-top: 100px;
+}
+.profile h2 {
+    color: white
+}
+.ABOUT  {
+    background: linear-gradient(#fffeff 0%,#ffffffd5 40%,#fdfdfd00 100%);
+    padding-bottom: 150px;
+    padding-top: 55px;
+}
+.Testimoni {
+    padding-bottom: 150px;
+    padding-top: 55px;
+}
+.fleet {
+    padding-top: 60px;
+}
+.footer {
+    background-color: #fff;
+    padding-bottom: 20px;
+}
